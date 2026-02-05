@@ -49,6 +49,11 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 | Member – Program              | M:N                           | Partial on both sides    | Members can join multiple programs                    |
 
 ### Assumptions
+Each book can be borrowed by one member at a time.
+
+Each event must have at least one speaker and one booked room.
+
+
 - 
 - 
 - 
@@ -97,7 +102,11 @@ The Central Library wants to manage book lending and cultural events.
 | Room – Event                       | 1:N                                  | Partial on Room side            | A room can host multiple events       |
 
 ### Assumptions
-- 
+- Each book can be borrowed by one member at a time.
+
+Each event must have at least one speaker and one booked room.
+
+
 - 
 - 
 
@@ -145,7 +154,11 @@ A popular restaurant wants to manage reservations, orders, and billing.
 | Order – Dish (via OrderDetail) | M:N (resolved via OrderDetail) | Total on OrderDetail side | Multiple dishes per order                  |
 | Reservation – Bill             | 1:1                            | Total on both sides       | One bill per reservation                   |
 ### Assumptions
-- 
+- Each reservation/order is served by one waiter.
+
+A dish belongs to exactly one category.
+
+
 - 
 - 
 
