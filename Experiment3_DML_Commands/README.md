@@ -190,6 +190,7 @@ WHERE GRADE = 2;
 **Output:**
 
 <img width="723" height="568" alt="image" src="https://github.com/user-attachments/assets/295ce263-307c-4e20-b5a3-3655d23abc7b" />
+<img width="1867" height="921" alt="image" src="https://github.com/user-attachments/assets/f4030864-544a-4257-8cc4-fe42874fa144" />
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
