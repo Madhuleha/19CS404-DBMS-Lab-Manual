@@ -178,6 +178,7 @@ HAVING MIN(price) < 10;
 **Output:**
 
 <img width="577" height="341" alt="image" src="https://github.com/user-attachments/assets/fa8beee0-2adc-4ffc-a8f8-0dbbbd1a00d0" />
+<img width="1915" height="998" alt="Screenshot 2026-03-17 113623" src="https://github.com/user-attachments/assets/c40a7f21-2fed-44cc-9535-7d384a3e76cc" />
 
 
 ## RESULT
