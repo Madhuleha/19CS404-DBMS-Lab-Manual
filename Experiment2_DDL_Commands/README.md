@@ -277,5 +277,8 @@ VALUES ('978-1122334455', 'Cybersecurity Essentials', 'Alice Smith', 2021);
 
 <img width="1268" height="165" alt="image" src="https://github.com/user-attachments/assets/300b0ced-a575-487f-bc7c-b8454cab9ff2" />
 
+<img width="1919" height="1009" alt="Screenshot 2026-03-17 115833" src="https://github.com/user-attachments/assets/5ef86cbd-d182-4917-ba26-1a6123a0741a" />
+
+
 ### RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
